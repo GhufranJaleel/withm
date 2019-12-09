@@ -1,0 +1,49 @@
+
+
+img{
+  position:fixed;
+}
+
+
+#tv{
+	position:absolute;
+  right:0px;
+	top:80px;
+	color:black;
+  height:75px;
+  width:75px;
+  background-color: pink;
+     /*z-index: 1;*/
+}
+
+#bed{
+  position:absolute;
+	top:80px;
+  left:2px;
+  height: 75px;
+  width: 75px;
+  background-color: purple;
+
+}
+
+
+
+
+
+.room{
+
+position: relative;
+top:150px;
+left:500px;
+width:200px;
+height:200px;
+color:black;
+border: 2px solid red;
+background-color:white;
+
+}
+
+
+
+
+
